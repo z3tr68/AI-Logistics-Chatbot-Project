@@ -84,5 +84,5 @@ User → Web UI → FastAPI Backend → LLM (Ollama/OpenAI) → Response → UI
 
 ## Project Purpose
 
-This project was built for a CIS 3100 - Generative AI
+This project was built for CIS 3100 - Generative AI
 
